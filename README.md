@@ -1,7 +1,7 @@
 # Data-Security
 Overview
 This document outlines the security practices and configurations to ensure the integrity, confidentiality, and availability of data. It includes guidelines for securing data storage, transmission, and access management, as well as recommendations for adhering to industry security benchmarks such as the Center for Internet Security (CIS) controls.
-
+It consists of my research article on data security, industry best security practises and security controls framework coming from industry.
 Table of Contents
 Introduction
 Data Classification and Protection
